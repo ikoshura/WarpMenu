@@ -1,0 +1,6 @@
+WarpMenu.app/
+WarpMenu.zip
+*.dmg
+*.pkg
+.DS_Store
+build/
